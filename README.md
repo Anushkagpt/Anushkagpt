@@ -12,6 +12,10 @@
 # Where am I
 ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
+
+## Latest Tweets
+[![](https://tweeco.pushkaryadav.in/api/handle/anushka62374385?bg=000)](https://tweeco.pushkaryadav.in)
+
 ## Current GitHub Stats 📊
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=anushkagpt&show_icons=true&hide_border=true&count_private=true&include_all_commits=false)
