@@ -12,6 +12,9 @@
 # Where am I
 ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
+# Projects
+## <img src="https://summerx.itsvg.in/logo.png" width="16px" /> SummerX: Mission to Save Lives💖
+Through [SummerX](https://summerx.itsvg.in) we are on a mission 🚀 to save lives of people who suffer from heat waves 🍃, excessive heat 🥵, illness and more. This is a prototype website.
 
 ## Latest Tweets
 [![](https://tweeco.pushkaryadav.in/api/handle/anushka62374385?bg=000)](https://tweeco.pushkaryadav.in)
