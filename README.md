@@ -1,6 +1,8 @@
 <h1 align="center"> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Anushka Gupta </br> 
 </h1>
-<p align="center">  A fresher who interested in learning new Tech </p>
+<p align="center"> A motivated individual with in-depth knowledge of languages and development tools, seeking a position in a growth- oriented company where I can use my skills to the advantage of the company while having the scope to develop my own
+skills.
+ </p>
 <p align="center">
 <a href="https://instagram.com/_anushka_gpt_17" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&style=for-the-badge&logo=Twitter&logoColor=white" style="vertical-align:center" /></a>
 <a href="https://www.linkedin.com/in/anushka-gupta-2561a7229" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-00457C?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align:center" />
