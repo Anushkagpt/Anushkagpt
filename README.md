@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: Hello! I am Anushka Gupta
 I love creating new things ⚡<br><br>Turning imagination into reality 🚀
 
 
